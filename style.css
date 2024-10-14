@@ -39,13 +39,13 @@ canvas{
 .closePopUp {
     cursor: pointer;
     position: absolute;
-    top: -5px; /* Distance from the top */
-    right: -5px; /* Distance from the right */
-    width: 30px; /* Width of the circle */
-    height: 30px; /* Height of the circle */
+    top: -5px; 
+    right: -5px; 
+    width: 30px; 
+    height: 30px; 
     border-radius: 50%; /* Make it a circle */
     background: rgb(88, 84, 84); /* Background color */
-    color: black; /* Text color */
+    color: white; /* Text color */
     display: flex;
     align-items: center;
     justify-content: center;

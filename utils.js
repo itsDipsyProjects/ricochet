@@ -1,7 +1,7 @@
 export function setTileMapSize(){
     let popUpHTML = `
         <div class="popupBox">
-            <div class="closePopUp"></div>
+            <div class="closePopUp">&times;</div>
             <p>Hello</p>
         </div>
     `;
