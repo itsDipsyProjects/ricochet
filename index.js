@@ -7,6 +7,3 @@ let canvasHeight = 400;
 canvas.width = canvasWidth;
 canvas.height = canvasHeight
 
-function main() {
-        
-}
